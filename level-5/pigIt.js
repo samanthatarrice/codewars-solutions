@@ -6,4 +6,6 @@ function pigIt(str) {
   }, '').trim()
 }
 
+// * Better to use regex to replace here.
+
 pigIt('Pig latin is cool !')
