@@ -1,4 +1,4 @@
-/* Complete the function that
+/* Complete the function that:
 
 accepts two integer arrays of equal length
 compares the value each member in one array to the corresponding member in the other
